@@ -3,9 +3,16 @@ layout: home
 title: "AI-driven Cloud & Data Solutions"
 ---
 
-Welcome to **Klouds.in** — your partner for multicloud architecture, data engineering, DevOps, and AI innovation.
+Welcome to **klouds.in** — your partner for multicloud architecture, data engineering, DevOps, and AI innovation.
 
-We help institutions and enterprises modernize workloads, implement Zero-Trust designs, and build *AI-ready ecosystems* using Azure, AWS, and GCP.
+As an Multi-cloud architect, consultant, data engineer and devops professional help institutions and enterprises leverage 
+
+ Assess and Modernize Infra and application workloads
+  - Hybrid and Multicloud implementations
+  - Resiliency and Disaster recovery - planning and implementation
+  - Implement Zero-Trust designs
+  - Build *AI-ready ecosystems*
+  - Assess, Implement and optimize  - Managed cloud services and platforms 
 
 ---
 
@@ -22,7 +29,7 @@ We help institutions and enterprises modernize workloads, implement Zero-Trust d
 - **Cloud Assessment & Migration**  
   Rapid modernization blueprints — from monolith to microservices — with automated IaC and policy-as-code.
 
-- **Disaster Recovery for Healthcare**  
+- **Disaster Recovery**  
   HIPAA-compliant DR runbooks, <15/60> min RPO/RTO, cost-optimized standby.
 
 - **FinOps & Cloud Governance**  
@@ -31,5 +38,5 @@ We help institutions and enterprises modernize workloads, implement Zero-Trust d
 ---
 
 ### 📞 Contact
-📧 [hello@klouds.in](mailto:kannan.gopalan@klouds.in)  
-🔗 [LinkedIn](https://www.linkedin.com/in/kannan-gopalan-9b88751ab)
+📧 [kannangopalan@klouds.in](mailto:kannan.gopalan@klouds.in)  
+🔗 [https://www.linkedin.com/in/kannan-gopalan-9b88751ab](https://www.linkedin.com/in/kannan-gopalan-9b88751ab)
