@@ -32,4 +32,4 @@ We help institutions and enterprises modernize workloads, implement Zero-Trust d
 
 ### 📞 Contact
 📧 [hello@klouds.in](mailto:kannan.gopalan@klouds.in)  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-handle)
+🔗 [LinkedIn](https://www.linkedin.com/in/kannan-gopalan-9b88751ab)
