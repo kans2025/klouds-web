@@ -1,7 +1,7 @@
 title: "Klouds.in"
 description: "Cloud, Data & AI Consulting — AI Lab as a Service for Campus Learning"
 url: "https://klouds.in"
-theme: minimal
+theme: jekyll-theme-modernist
 
 author:
   name: "Kannan Gopalan"
