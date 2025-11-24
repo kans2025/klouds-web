@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Projects & Case Studies | KLOUDS</title>
+    <meta
+      name="description"
+      content="Sample projects, reference architectures and case studies from KLOUDS."
+    />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="assets/logo-klouds.png" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="navbar">
+      <div class="container nav-inner">
+        <a href="index.html" class="nav-brand">
+          <img src="assets/logo-klouds.png" alt="KLOUDS Logo" />
+          <div class="nav-brand-text">
+            <span>KLOUDS</span>
+            <span>Cloud | Data | AI</span>
+          </div>
+        </a>
+        <nav>
+          <div id="nav-toggle" class="nav-toggle">☰</div>
+          <div id="nav-links" class="nav-links">
+            <a href="index.html">Home</a>
+            <a href="services.html">Services</a>
+            <a href="credentials.html">Credentials</a>
+            <a href="projects.html" class="active">Projects</a>
+            <a href="contact.html">Contact</a>
+          </div>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <section class="section">
+        <div class="container">
+          <div class="section-header">
+            <p class="section-kicker">Case studies</p>
+            <h1 class="section-title">Illustrative projects & reference patterns</h1>
+            <p class="section-subtitle">
+              Replace these anonymised examples with real customer stories over time. Each one
+              connects business drivers with architecture and delivery outcomes.
+            </p>
+          </div>
+
+          <div class="timeline">
+            <article class="timeline-item">
+              <span class="timeline-dot"></span>
+              <h2 class="timeline-title">
+                Healthcare provider – DR & AVD-based clinician workspace
+              </h2>
+              <div class="timeline-meta">Azure · AVD · DR · Regulated workload</div>
+              <p class="timeline-body">
+                Designed and implemented an Azure-based DR environment for core HIS workloads,
+                alongside an Azure Virtual Desktop workspace for clinicians. Leveraged infra-as-code
+                and policy baselines to ensure repeatability and compliance.
+              </p>
+            </article>
+
+            <article class="timeline-item">
+              <span class="timeline-dot"></span>
+              <h2 class="timeline-title">Manufacturing – Multicloud landing zones</h2>
+              <div class="timeline-meta">Azure · AWS · Connectivity · DevOps</div>
+              <p class="timeline-body">
+                Implemented Azure and AWS landing zones with centralised identity, shared services
+                and DevOps pipelines. Created a reusable blueprint to onboard business units in
+                weeks instead of months.
+              </p>
+            </article>
+
+            <article class="timeline-item">
+              <span class="timeline-dot"></span>
+              <h2 class="timeline-title">Campus – AI Lab as a Service</h2>
+              <div class="timeline-meta">Multi-cloud · Kubernetes · GenAI lab</div>
+              <p class="timeline-body">
+                Set up a shared AI lab platform for students to build ML and GenAI projects, with
+                quota control, curated datasets and secure access to LLMs. Delivered templates for
+                faculty-led POCs.
+              </p>
+            </article>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <div class="container footer-inner">
+        <div>© 2025 KLOUDS Consulting – All Rights Reserved.</div>
+        <div class="footer-links">
+          <a href="credentials.html">Credentials</a>
+          <a href="contact.html">Get in touch</a>
+        </div>
+      </div>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
